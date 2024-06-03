@@ -1,0 +1,1 @@
+window.DATA={useLocalJsons:!0,urlLocalDifusores:".",urlDifusores:"https://api-pub-baja-2024.openprep.io",remoteDifusoresAssets:"/assets/",version:"PREP21VERSIONHASH"};
