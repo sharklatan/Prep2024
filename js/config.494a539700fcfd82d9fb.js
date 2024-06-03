@@ -1,0 +1,1 @@
+window.DATA={useLocalJsons:!0,urlLocalDifusores:"https://prep2024yucatan.mx",urlDifusores:"",remoteDifusoresAssets:"/assets/",version:"PREP21VERSIONHASH"};
